@@ -1,0 +1,23 @@
+{
+  "name": "workshop-solana",
+  "version": "1.0.0",
+  "description": "This is a Solana Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-Singh-Kushwaha/workshop-solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman-Singh-Kushwaha/workshop-solana/issues"
+  },
+  "homepage": "https://github.com/Aman-Singh-Kushwaha/workshop-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
